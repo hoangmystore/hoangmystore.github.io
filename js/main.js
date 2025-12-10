@@ -3,37 +3,37 @@
 const productsData = [
     {
         id: 1,
-        title: "Tai Nghe Bluetooth Chống Ồn Cao Cấp",
+        title: "Củ sạc Cao Cấp",
         price: 590000,
-        image: "static/sp1.jpg", 
+        image: "static/anker-cu-sac.jpg", 
         link: "https://shopee.vn/link-tiep-thi-cua-ban-1"
     },
     {
         id: 2,
         title: "Đồng Hồ Thông Minh Theo Dõi Sức Khỏe",
         price: 850000,
-        image: "static/sp2.jpg",
+        image: "static/anker-cu-sac.jpg",
         link: "https://tiki.vn/link-tiep-thi-cua-ban-2"
     },
     {
         id: 3,
         title: "Bàn Phím Cơ Gaming LED RGB",
         price: 1200000,
-        image: "static/sp3.jpg",
+        image: "static/anker-cu-sac.jpg",
         link: "https://lazada.vn/link-tiep-thi-cua-ban-3"
     },
     {
         id: 4,
         title: "Sạc Dự Phòng 20.000mAh",
         price: 350000,
-        image: "static/sp4.jpg",
+        image: "static/anker-cu-sac.jpg",
         link: "https://shopee.vn/link-tiep-thi-cua-ban-4"
     },
     {
         id: 5,
         title: "Kệ Sách Gỗ Để Bàn Lắp Ghép",
         price: 150000,
-        image: "static/sp5.jpg", // Ví dụ nếu chưa có ảnh
+        image: "static/anker-cu-sac.jpg", // Ví dụ nếu chưa có ảnh
         link: "#"
     }
 ];
